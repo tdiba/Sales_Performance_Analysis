@@ -1,5 +1,15 @@
 # Sales_Performance_Analysis
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Sales Trends Over Time](#sales-trends-over-time)
+- [Customer Purchase Behavior](#customer-purchase-behavior)
+- [Product Performance](#product-performance)
+- [Seasonal Effects](#seasonal-effects)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+
 
 ### Overview
 
